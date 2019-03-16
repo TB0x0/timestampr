@@ -1,0 +1,11 @@
+{
+  "name": "timestampr",
+  "version": "1.0.0",
+  "description": "Timestamp Microservice based off of https://freshman.tech/microservice/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thomas McLean",
+  "license": "ISC"
+}
